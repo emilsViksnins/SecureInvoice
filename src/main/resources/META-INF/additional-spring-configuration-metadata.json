@@ -1,0 +1,53 @@
+{
+  "properties": [
+    {
+      "name": "spring.datasource.jpa.database-platform",
+      "type": "java.lang.String",
+      "description": "Description for spring.datasource.jpa.database-platform."
+    },
+    {
+      "name": "spring.datasource.jpa.generate-ddl",
+      "type": "java.lang.String",
+      "description": "Description for spring.datasource.jpa.generate-ddl."
+    },
+    {
+      "name": "spring.datasource.jpa.show-sql",
+      "type": "java.lang.String",
+      "description": "Description for spring.datasource.jpa.show-sql."
+    },
+    {
+      "name": "spring.datasource.jpa.hibernate.ddl-auto",
+      "type": "java.lang.String",
+      "description": "Description for spring.datasource.jpa.hibernate.ddl-auto."
+    },
+    {
+      "name": "spring.datasource.jpa.hibernate.properties.hibernate.globally-quoted-indentifiers",
+      "type": "java.lang.String",
+      "description": "Description for spring.datasource.jpa.hibernate.properties.hibernate.globally-quoted-indentifiers."
+    },
+    {
+      "name": "spring.datasource.jpa.hibernate.properties.hibernate.globally-quoted-identifiers",
+      "type": "java.lang.String",
+      "description": "Description for spring.datasource.jpa.hibernate.properties.hibernate.globally-quoted-identifiers."
+    },
+    {
+      "name": "spring.datasource.jpa.hibernate.properties.hibernate.dialect",
+      "type": "java.lang.String",
+      "description": "Description for spring.datasource.jpa.hibernate.properties.hibernate.dialect."
+    },
+    {
+      "name": "spring.datasource.jpa.hibernate.properties.hibernate.format_sql",
+      "type": "java.lang.String",
+      "description": "Description for spring.datasource.jpa.hibernate.properties.hibernate.format_sql."
+    },
+    {
+      "name": "spring.profiles.version",
+      "type": "java.lang.String",
+      "description": "Description for spring.profiles.version."
+    },
+    {
+      "name": "spring.profiles.title",
+      "type": "java.lang.String",
+      "description": "Description for spring.profiles.title."
+    }
+  ] }
